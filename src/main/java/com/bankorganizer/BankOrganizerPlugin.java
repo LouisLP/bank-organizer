@@ -14,7 +14,8 @@ import net.runelite.client.plugins.PluginDescriptor;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Example"
+		name = "Bank Organizer",
+		description = "Helps organize your bank using customizable templates"
 )
 public class BankOrganizerPlugin extends Plugin
 {
